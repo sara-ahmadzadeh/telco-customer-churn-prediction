@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+
+
+# Virtual Environment
+telco_customer_churn/
+
+
+# Data files 
+data/raw/
+data/processed/
+*.csv
+*.xlsx
+
+
+# IDE settings
+.vscode/
+.idea/
+
+
+# macOS
+.DS_Store
