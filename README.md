@@ -14,9 +14,9 @@ This project builds a classification model to predict which customers are likely
 
 ## 📁 Project Structure
 
-telco-customer-chur-prediction
-├── data/ # Data files (raw and processed)
-├── notebooks/ # Jupyter notebooks for EDA and modeling
-├── src/ # Reusable Python modules
-├── models/ # Saved models
-└── reports/ # Figures and final reports
+telco-customer-chur-prediction</br>
+├── data/ # Data files (raw and processed)</br>
+├── notebooks/ # Jupyter notebooks for EDA and modeling</br>
+├── src/ # Reusable Python modules</br>
+├── models/ # Saved models</br>
+└── reports/ # Figures and final reports</br>
